@@ -34,7 +34,3 @@ Column descriptions courtesy of [angela1c.com](https://www.angela1c.com/projects
 -  **day** *(object)* - Day of the week, abbreviated
 -  **time** *(object)* - Time of day based on the meal
 -  **size** *(int64)* - Size of the party
-
-After running a few basic statistics on the data set, here is what I have noticed:
-1. The average party size is about 2.5 people with a standard deviation of 0.95.
-2. 
