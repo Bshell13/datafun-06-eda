@@ -1,5 +1,9 @@
 # datafun-06-eda
 
+## Project Setup
+In this project, you will be working with the 'tips' dataset from the seaborn module. Here are the things you will need to get started.
+
+Make sure you are in the root folder to store the analysis.
 ## Virtual Environment
 ```shell
 py -m venv .venv
